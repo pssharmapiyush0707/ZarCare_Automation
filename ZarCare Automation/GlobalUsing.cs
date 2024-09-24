@@ -16,4 +16,3 @@ global using ZarCare_Automation.Test.PageActions;
 global using ZarCare_Automation.TestResources;
 global using OpenQA.Selenium.Interactions;
 global using static ZarCare_Automation.Utilities.Generic_Utils;
-
