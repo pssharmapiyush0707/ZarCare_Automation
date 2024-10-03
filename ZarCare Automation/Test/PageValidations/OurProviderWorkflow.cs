@@ -25,6 +25,7 @@
             Our_Providers_Page.NavigateToCloseButton();
 
             Reports.childLog.Log(Status.Info, "=================================================");
+        
         }
 
         public static void Search_Provider_By_Category()
